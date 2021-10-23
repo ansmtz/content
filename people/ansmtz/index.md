@@ -1,4 +1,4 @@
 ---
-name: 'ansmtz'
-url: https://github.com/ansmtz
+name: 'Антон Седов'
+url: https://t.me/antsdv
 ---
